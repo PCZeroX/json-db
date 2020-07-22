@@ -1,0 +1,32 @@
+{
+	"cursos": [
+		{
+			"id": 1,
+			"titulo": "React desde cero",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/original/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+			"price": 40,
+			"teacher": "Beto Quiroga"
+		},
+		{
+			"id": 2,
+			"titulo": "PHP desde cero",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/original/5ec26692-8451-4297-a59a-adb1829a90e8.jpg",
+			"price": 30,
+			"teacher": "Yesi Days"
+		},
+		{
+			"id": 3,
+			"titulo": "NextJS",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/original/83abeac1-e2dc-4e4c-a711-8ae7c20e37ee.jpg",
+			"price": 50,
+			"teacher": "Beto Quiroga"
+		},
+		{
+			"id": 4,
+			"titulo": "Librerías JavaScript",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/original/e8207ec4-e9a7-4cba-86a8-ee80c443a37f.jpg",
+			"price": 10,
+			"teacher": "Beto Quiroga"
+		}
+	]
+}
